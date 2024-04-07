@@ -5,5 +5,5 @@
 A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ```shell
-git clone https://github.com/arewerage/astronvim_config_v4 ~/.config/nvim
+git clone git@github.com:arewerage/astronvim_config_v4.git ~/.config/nvim
 ```
